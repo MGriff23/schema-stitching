@@ -2543,10 +2543,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.17.5.tgz#c58b12bca8c2a437b38c15270615627e96dd0bc5"
   integrity sha512-xNbS75FxH6P4UXTPUJp/zNPq6/xsfdJKussCWNOnz4aULWIRwMgP1LgaB5RiBnMX1DPCYenuqGZfnIAx5mbFLA==
 
-"@types/node@^20.1.2":
-  version "20.4.7"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.4.7.tgz#74d323a93f1391a63477b27b9aec56669c98b2ab"
-  integrity sha512-bUBrPjEry2QUTsnuEjzjbS7voGWCc30W0qzgMf90GPeDGFRakvrz47ju+oqDAKCXLUCe39u57/ORMl/O/04/9g==
+"@types/node@^20.4.9":
+  version "20.5.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.5.0.tgz#7fc8636d5f1aaa3b21e6245e97d56b7f56702313"
+  integrity sha512-Mgq7eCtoTjT89FqNoTzzXg2XvCi5VMhRV6+I2aYanc6kQCBImeNaAYRs/DyoVqk1YEUJK5gN9VO7HRIdz4Wo3Q==
 
 "@types/prop-types@*":
   version "15.7.5"
@@ -9157,16 +9157,16 @@ type-fest@^1.0.2:
   integrity sha512-yGSza74xk0UG8k+pLh5oeoYirvIiWo5t0/o3zHHAO2tRDiZcxWP7fywNlXhqb6/r6sWvwi+RsyQMWhVLe4BVuA==
 
 type-graphql@^2.0.0-beta.1:
-  version "2.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/type-graphql/-/type-graphql-2.0.0-beta.2.tgz#498e8dee56b8ea1f5c3a5ed99aab8105dcb8f050"
-  integrity sha512-MCGxRvNADu5Wp9QEudI/WQgiqHJfjanGcKRk/ErCow6IaG04NNI7o3bjjxQVWC+qDundSOhmaquNdjDiiTbcqQ==
+  version "2.0.0-beta.3"
+  resolved "https://registry.yarnpkg.com/type-graphql/-/type-graphql-2.0.0-beta.3.tgz#71a796845dbb3f3cca5dfb97a38ffe30ee5aa1ea"
+  integrity sha512-5HEiQaWHPYhPmbJuMmT+IZgjsnbNWsW37osUISwgr5EpcHZ4krLl8eBoOfjFya4mxAWYshlpSO1ahaucJQqM5g==
   dependencies:
-    "@types/node" "^20.1.2"
+    "@types/node" "^20.4.9"
     "@types/semver" "^7.5.0"
     graphql-query-complexity "^0.12.0"
     graphql-subscriptions "^2.0.0"
-    semver "^7.5.0"
-    tslib "^2.5.0"
+    semver "^7.5.4"
+    tslib "^2.6.0"
 
 typed-array-buffer@^1.0.0:
   version "1.0.0"
